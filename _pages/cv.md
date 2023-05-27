@@ -19,11 +19,12 @@ Work experience
 * 2022-Present: Postdoctoral Associate
   * University of Minnesota, Twin Cities
   * Duties included: Research, data analyses, writing
-  * Supervisor: Dr. Peter Reich, Dr. Sarah Hobbie, Dr. Forest Isbell
+  * Supervisors: Dr. Peter Reich, Dr. Sarah Hobbie, Dr. Forest Isbell
   
 * Fall 2016-Fall 2021: Teaching Assistant
   * Syracuse University
   * Duties included: Teaching in labs for several intro and advanced level biology classes
+  * Supervisor: Dr. Mark Ritchie
 
 * 2015-2016: Research Assistant
   * IISER-Pune
