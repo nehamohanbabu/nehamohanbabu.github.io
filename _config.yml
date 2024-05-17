@@ -179,7 +179,7 @@ collections:
     permalink: /:collection/:path/
   publications:
     output: true
-    permalink: /publications/ #:collection/:path/
+    permalink: _pages/publications.md
   portfolio:
     output: true
     permalink: /:collection/:path/
