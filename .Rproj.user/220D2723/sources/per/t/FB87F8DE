@@ -1,14 +1,14 @@
 {
-    "id": "33ABF08D",
-    "path": "F:/nehamohanbabu.github.io/publications.qmd",
-    "project_path": "publications.qmd",
+    "id": "FB87F8DE",
+    "path": "F:/nehamohanbabu.github.io/research.qmd",
+    "project_path": "research.qmd",
     "type": "quarto_markdown",
-    "hash": "0",
+    "hash": "996196141",
     "contents": "",
     "dirty": false,
-    "created": 1743607167634.0,
+    "created": 1743606528907.0,
     "source_on_save": false,
-    "relative_order": 3,
+    "relative_order": 5,
     "properties": {
         "rmdVisualMode": "true",
         "rmdVisualWrapConfigured": "true",
@@ -22,11 +22,11 @@
         "rmdVisualModeLocation": "2:0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1765450715,
+    "lastKnownWriteTime": 1765463302,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1765450715624,
+    "last_content_update": 1765463302948,
     "read_only": false,
     "read_only_alternatives": []
 }
