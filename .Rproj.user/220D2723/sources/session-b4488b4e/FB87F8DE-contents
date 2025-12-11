@@ -1,0 +1,27 @@
+---
+title: "Research"
+---
+
+### Spatial patterning and their consequences for savanna community assembly
+
+Spatial patterning is inherent to savannas with their mosaics of grass and woody species. These patterns can be an outcome of very different mechanisms from scale-dependent feedbacks to environmental heterogeniety sometimes created by other organisms such as termites. We examine whether such patterning affects tree community assembly by leveraging data from across sub-Saharan Africa ([SEOSAW network](https://seosaw.github.io/)).
+
+![Patterning of vegetation in Mozambique](images/spat_pat.jpg){fig-align="center" width="431"}
+
+### Temporal trends in effects of global change on plant communities
+
+Global change drivers (GCD) such as nitrogen deposition, elevated CO2 and temperatures are affecting plant communities over short timescales. But how GCDs may influence plant communities under prolonged exposure, similar to conditions under ongoing climate change, are relatively less studied due to the limited number of long-term studies. To address this, we leveraged data from one such long-term experiment, BioCON, which manipulates diversity, CO2 and N levels to examine a) the influence of species interactions on the differential responses of herbaceous functional groups to GCDs over a 25 year period; b) the long term impact of N and CO2 enrichment on plant diversity; and c) the consequences of multi-decadal exposure to elevated N and CO2 on diversity-ecosystem function relationships
+
+![Aerial view of the BioCON experiment at Cedar Creek Ecosystem Science Reserve, Minnesota, USA](biocon.jpg){fig-align="center" width="430"}
+
+### Intraspecific variation in plant defense traits
+
+Within species variation in defense traits is poorly characterized for plants adapted to intense large mammal herbivory, especially in the context of multiple resource gradients. We studied intraspecific variation for several traits in natural populations of Solanum incanum, and found that rainfall and phosphorus supply are strongly associated with physical defense traits. Additionally, multiple traits showed unexpected covariation leading us to propose a new hypothesis for integrating defense and leaf economic spectrum traits.
+
+![A well defended Dichrostachys shrub in the Serengeti](images/plant_defense.jpg){fig-align="center" width="447"}
+
+### Multiple resource influence on plant-herbivore interactions
+
+Plants are simultaneously limited by the availability of multiple resources, but its implications for resource-plant-herbivore interactions are less well understood. Therefore, we developed an analytical model to provide testable hypotheses for responses of herbivores along gradients of different types of resources. The model predicts indirect limitation of herbivores by resources that do not limit their growth (such as phosphorus) which may allow these non-limiting resources to act as "resource subsidies". We tested some of the predictions using data from a long term grazing exclosure study in the Serengeti National Park and found that herbivore impacts on plants are indeed positively associated with P supply in the system.
+
+![Schematic of the multiple resource limitation model](images/mrl_model.jpg){fig-align="center" width="418"}
