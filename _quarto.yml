@@ -1,0 +1,24 @@
+project:
+  type: website      # required for Quarto website
+  output-dir: docs
+  
+website:
+  title: "Neha Mohanbabu"
+  navbar:
+    background: primary
+    search: true
+    pinned: true
+    left:
+      - file: research.qmd
+      - file: publications.qmd
+      - text: "Data & Network science"
+        href: data.qmd
+
+format:
+  html:
+    theme: darkly
+    css: styles.css
+    toc: true
+
+editor: visual
+

@@ -1,0 +1,39 @@
+---
+title: ""
+about: 
+  template: jolla
+  image: "serengeti.png"
+  image-shape: rectangle
+  image-width: 850px
+links:
+  - icon: twitter
+    text: twitter
+    href: https://twitter.com
+  - icon: github
+    text: Github
+    href: https://github.com
+---
+
+<!-- Two-column section -->
+::: {.columns}
+
+::: {.column width="30%" style="align-items:center;"}
+<img src="images/nm_quarto_pic.jpg" style="
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 50%;
+">
+
+### Neha Mohanbabu
+:::
+
+::: {.column width="70%" style="text-align:left;"}
+I am a postdoctoral researcher at the Utrecht University in the Netherlands, working on understanding the associations between biodiversity and spatial pattern formation in vegatation and their consequences for ecosystem resilience in African savannas.
+
+Until September 2024, I was a postdoctoral associate at the University of Minnesota. I studied the consequences of biodiversity loss and global changes on ecosystem functioning and stability using a multi-decade experiment. As a part of a synthesis working group, I lead a project on predicting long-term stability and resistance to extreme drought in forest ecosystems around the world.
+
+For my graduate work at Syracuse University, I studied the impact of multiple resource limitation on plant-herbivore interactions using both theoretical and empirical approaches, in East African savannas.
+:::
+
+:::

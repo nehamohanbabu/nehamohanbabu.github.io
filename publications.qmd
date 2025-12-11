@@ -1,0 +1,49 @@
+---
+title: "Publications"
+---
+
+### Preprints and in review
+
+X Pan, Y Hautier,..., N Mohanbabu,..., F de Bello. Reconciling links between diversity and population stability across global plant communities. (in review) \[[preprint](https://www.authorea.com/doi/full/10.22541/au.174766347.70526064)\]
+
+K Anujan, **N Mohanbabu**,..., M Sankaran. Harmonising distributed tree inventory datasets across India can fill critical gaps in tropical ecology. (in review) \[[preprint](https://www.biorxiv.org/content/10.1101/2024.05.18.594774v1)\]
+
+X Qiao, J Zscheischler, ...., **N Mohanbabu**, ..., S Wang. Biodiversity buffers forest ecosystems from compound climate extremes. (in review)
+
+**N Mohanbabu,** TM Anderson, A Joern and ME Ritchie. Multiple resource limitation of plants and its consequences for herbivores and their impacts. \[[older version of preprint](https://www.authorea.com/users/374337/articles/491877-multiple-resource-limitation-of-plants-and-its-consequences-for-herbivores-and-their-impacts?commit=5715416e8ba5d639d01cf441647103d3047ebee1)\]
+
+### 2025
+
+E Butler, **N Mohanbabu\***, Z Wong,  F Isbell and P Reich. Elevated CO2 and enriched nitrogen decrease species richness most at small spatial scales in a grassland experiment (2025). *Journal of Ecology* \[[PDF](https://besjournals.onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1365-2745.70128)\] \*equal contribution first authorship
+
+M Huang, P Reich,....., **N Mohanbabu**,..., Y Hautier. Nitrogen and CO2 enrichment interact to decrease biodiversity impact on complementarity and selection effects (2025). *Nature Communications* \[[PDF](https://www.nature.com/articles/s41467-025-62691-0)\]
+
+**N Mohanbabu**, F Isbell, S Hobbie and P Reich. Elevated CO2 and N gradually weaken the influence of diversity on ecosystem stability (2025). *Ecology Letters* \[[PDF](https://onlinelibrary.wiley.com/doi/10.1111/ele.70170?af=R)\]
+
+R Sunny, A Guha, ....**N Mohanbabu** and D Barua. Responses to water limitation are independent of light for saplings of a seasonally dry tropical forest (2025). *Biotropica.* \[[PDF](https://onlinelibrary.wiley.com/doi/pdf/10.1111/btp.13404)\]
+
+### 2024
+
+**N Mohanbabu,** F Isbell, S Hobbie and P Reich. Species interactions amplify functional group responses to elevated CO~2~ and N enrichment in a 24-year grassland experiment (2024). *Global Change Biology* \[[PDF](https://doi.org/10.1111/gcb.17476)\]
+
+P Reich, **N Mohanbabu**, F Isbell, S Hobbie and E Butler. High CO2 dampens then amplifies N-induced diversity loss over 24 years (2024). *Nature* \[[PDF](https://www.nature.com/articles/s41586-024-08066-9)\] (Research briefings of this article can be found [here](https://www.nature.com/articles/d41586-024-03663-0))
+
+N Eisenhauer, K Mueller, ..., **N Mohanbabu**,... F Isbell. The multiple mechanisms hypothesis of diversity-stability relationships (2024). *Basic and Applied Ecology* \[[PDF](https://doi.org/10.1016/j.baae.2024.07.004)\]
+
+AT Karp, S Koerner, ..., **N Mohanbabu**, ...C Staver. Grazing herbivores reduce herbaceous biomass and fire activity across African savannas (2024). *Ecology Letters* \[[PDF](https://doi.org/10.1111/ele.14450)\]
+
+### 2023
+
+D Luna, **N Mohanbabu**, J Johnson and DM Althoff. Host use by 2 sibling species of bogus yucca moths in relation to plant hardiness and saponin content (2023). *Environmental Entomology* \[PDF\]
+
+**N Mohanbabu**, M. Veldhuis, D Jung and ME Ritchie. Integrating defense and leaf economic spectrum traits in a tropical savanna plant (2023). *Frontiers in Plant Science* \[[PDF](https://www.frontiersin.org/articles/10.3389/fpls.2023.1185616/full#:~:text=LES%20strategies%20have%20been%20well,both%20abiotic%20and%20biotic%20conditions.)\]
+
+**N Mohanbabu**, M. Veldhuis, D Jung and ME Ritchie. Landscape variation in defense traits along gradients of multiple resources in a tropical savanna plant (2023).  *Oikos* \[[PDF](https://onlinelibrary.wiley.com/doi/full/10.1111/oik.09909)\]
+
+### 2022
+
+**N Mohanbabu** and ME Ritchie. Large herbivore impact on plant biomass along multiple resource gradients in the Serengeti (2022). *Journal of Ecology* \[[PDF](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2745.13889)\]\* shortlisted for the Harper Prize
+
+### 2021
+
+RJ Griffin-Nolan, **N Mohanbabu**, ... and JD Fridley (2021). Friend or foe? The role of biotic agents in drought-induced plant mortality. *Plant Ecology* \[[PDF](https://rdcu.be/chawM)\]
