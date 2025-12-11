@@ -1,17 +1,22 @@
 ---
-title: ""
 about: 
   template: jolla
   image: "serengeti.png"
   image-shape: rectangle
-  image-width: 850px
-links:
-  - icon: twitter
-    text: twitter
-    href: https://twitter.com
-  - icon: github
-    text: Github
-    href: https://github.com
+  image-width: "100%"
+
+  links:
+  - icon: linkedin
+    text: LinkedIn
+    href: https://www.linkedin.com/in/neha-mohanbabu/
+    
+  - icon: google-scholar
+    text: Google Scholar
+    href: https://scholar.google.com/citations?user=63YgZnIAAAAJ&hl=en
+    
+  - icon: envelope
+    text: Email
+    href: mailto:nehamohanbabu@gmail.com
 ---
 
 <!-- Two-column section -->
